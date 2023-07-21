@@ -1,3 +1,5 @@
+//take input and print the array
+
 #include<stdio.h
 int main()
 {
