@@ -1,3 +1,5 @@
+//make an Array and fing the required number in it
+
 #include <stdio.h>
 
 #define MAX_SIZE 100  // Maximum array size
